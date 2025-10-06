@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "data": [
+    {
+      "id": 1,
+      "name": "Chocolate Fudge Cake",
+      "description": "Rich and moist chocolate cake with creamy fudge frosting",
+      "price": 2500.00,
+      "image": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=400",
+      "category_id": 1,
+      "flavor": "Chocolate",
+      "size": "1 kg",
+      "occasion": "Birthday",
+      "is_available": true,
+      "ingredients": "Flour, Cocoa, Eggs, Butter, Sugar",
+      "dietary_options": "Contains: Gluten, Dairy, Eggs",
+      "average_rating": 4.8,
+      "total_reviews": 45
+    },
+    {
+      "id": 2,
+      "name": "Vanilla Dream Cake",
+      "description": "Light and fluffy vanilla sponge with buttercream frosting",
+      "price": 2000.00,
+      "image": "https://images.unsplash.com/photo-1565958011703-44f9829ba187?w=400",
+      "category_id": 1,
+      "flavor": "Vanilla",
+      "size": "1 kg",
+      "occasion": "Birthday",
+      "is_available": true,
+      "ingredients": "Flour, Eggs, Butter, Sugar, Vanilla",
+      "dietary_options": "Contains: Gluten, Dairy, Eggs",
+      "average_rating": 4.5,
+      "total_reviews": 32
+    }
+  ]
+}
