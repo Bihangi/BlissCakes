@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "name": "Classic Chocolate Cake",
+    "description": "Rich and moist chocolate cake with chocolate ganache",
+    "price": 2500.00,
+    "image": null,
+    "categoryId": 1,
+    "category": {
+      "id": 1,
+      "name": "Birthday Cakes",
+      "description": "Perfect cakes for birthday celebrations"
+    },
+    "size": "Medium",
+    "flavor": "Chocolate",
+    "occasion": "Birthday",
+    "dietaryOptions": ["Egg"],
+    "isAvailable": true,
+    "averageRating": 4.5,
+    "totalReviews": 120,
+    "imageUrl": null,
+    "formattedPrice": "Rs. 2,500.00"
+  },
+  {
+    "id": 2,
+    "name": "Vanilla Dream Cake",
+    "description": "Light and fluffy vanilla cake with buttercream frosting",
+    "price": 2200.00,
+    "image": null,
+    "categoryId": 1,
+    "category": {
+      "id": 1,
+      "name": "Birthday Cakes",
+      "description": "Perfect cakes for birthday celebrations"
+    },
+    "size": "Medium",
+    "flavor": "Vanilla",
+    "occasion": "Birthday",
+    "dietaryOptions": ["Egg"],
+    "isAvailable": true,
+    "averageRating": 4.3,
+    "totalReviews": 95,
+    "imageUrl": null,
+    "formattedPrice": "Rs. 2,200.00"
+  },
+  {
+    "id": 3,
+    "name": "Red Velvet Elegance",
+    "description": "Luxurious red velvet cake with cream cheese frosting",
+    "price": 2800.00,
+    "image": null,
+    "categoryId": 2,
+    "category": {
+      "id": 2,
+      "name": "Wedding Cakes",
+      "description": "Elegant cakes for your special day"
+    },
+    "size": "Large",
+    "flavor": "Red Velvet",
+    "occasion": "Wedding",
+    "dietaryOptions": ["Egg"],
+    "isAvailable": true,
+    "averageRating": 4.8,
+    "totalReviews": 150,
+    "imageUrl": null,
+    "formattedPrice": "Rs. 2,800.00"
+  },
+  {
+    "id": 4,
+    "name": "Strawberry Delight",
+    "description": "Fresh strawberry cake with whipped cream",
+    "price": 2600.00,
+    "image": null,
+    "categoryId": 3,
+    "category": {
+      "id": 3,
+      "name": "Anniversary Cakes",
+      "description": "Celebrate your love with our special cakes"
+    },
+    "size": "Medium",
+    "flavor": "Strawberry",
+    "occasion": "Anniversary",
+    "dietaryOptions": ["Egg"],
+    "isAvailable": true,
+    "averageRating": 4.6,
+    "totalReviews": 85,
+    "imageUrl": null,
+    "formattedPrice": "Rs. 2,600.00"
+  },
+  {
+    "id": 5,
+    "name": "Black Forest Special",
+    "description": "Traditional black forest cake with cherries and chocolate shavings",
+    "price": 2700.00,
+    "image": null,
+    "categoryId": 1,
+    "category": {
+      "id": 1,
+      "name": "Birthday Cakes",
+      "description": "Perfect cakes for birthday celebrations"
+    },
+    "size": "Large",
+    "flavor": "Chocolate",
+    "occasion": "Birthday",
+    "dietaryOptions": ["Egg"],
+    "isAvailable": true,
+    "averageRating": 4.7,
+    "totalReviews": 200,
+    "imageUrl": null,
+    "formattedPrice": "Rs. 2,700.00"
+  }
+]

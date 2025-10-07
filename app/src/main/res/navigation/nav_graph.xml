@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/navigation_home">
+
+    <fragment
+        android:id="@+id/navigation_home"
+        android:name="com.blisscakes.app.ui.home.HomeFragment"
+        android:label="Home" />
+
+    <fragment
+        android:id="@+id/navigation_browse"
+        android:name="com.blisscakes.app.ui.browse.BrowseFragment"
+        android:label="Browse" />
+
+    <fragment
+        android:id="@+id/navigation_cart"
+        android:name="com.blisscakes.app.ui.cart.CartFragment"
+        android:label="Cart" />
+
+    <fragment
+        android:id="@+id/navigation_orders"
+        android:name="com.blisscakes.app.ui.orders.OrdersFragment"
+        android:label="Orders" />
+
+    <fragment
+        android:id="@+id/navigation_profile"
+        android:name="com.blisscakes.app.ui.profile.ProfileFragment"
+        android:label="Profile" />
+
+    <activity
+        android:id="@+id/searchActivity"
+        android:name="com.blisscakes.app.ui.search.SearchActivity"
+        android:label="Search" />
+
+</navigation>
